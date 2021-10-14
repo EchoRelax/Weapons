@@ -1,0 +1,7 @@
+﻿  main.cpp
+  MainMenu.cpp
+  SaveFile.cpp
+  Generating Code...
+F:\Weapons\Weapons\Container.h(199): warning C4715: 'Container<Carabine>::operator[]': not all control paths return a value
+  LINK : F:\Weapons\Debug\Weapons.exe not found or not built by the last incremental link; performing full link
+  Weapons.vcxproj -> F:\Weapons\Debug\Weapons.exe
